@@ -2,7 +2,7 @@
 
 A powerful parametric hatch generator for FreeCAD with over 100 built-in patterns and extensive randomization controls. This macro creates a fully parametric `Part::FeaturePython` object, allowing you to edit hatch properties at any time.
 
-[![Screenshot of the main dialog](https://i.imgur.com/XXXXXXX.png)](https://imgur.com/a/Tk6X85y)
+[![Screenshot of the FreeCAD Hatch Generator](./images/Freecad_Hatch_Generator.jpg)](./images/Freecad_Hatch_Generator.jpg)
 
 ## Features
 - **Large Pattern Library:** Over 100 built-in patterns, from simple lines to complex fractals and material textures.
